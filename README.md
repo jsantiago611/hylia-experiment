@@ -12,7 +12,7 @@ Hylia version 0.7.0 features:
 
 🎨 Customisable design tokens to make it your own  
 🌍 Customisable global data and navigation  
-📂 Tags and tag archives  
+📂 Tags and tag archive  
 🎈 _Super_ lightweight front-end  
 ✅ Progressively enhanced, semantic and accessible  
 🚰 Sass powered CSS system with utility class generator  
